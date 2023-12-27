@@ -1,47 +1,20 @@
-# Astro Starter Kit: Minimal
+# Hello!
 
-```sh
-npm create astro@latest -- --template minimal
-```
+Welcome to my GitHub account! Feel free to peruse and let me know what you think!
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/minimal)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/minimal/devcontainer.json)
+## Bio
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+My name is Skyler Riggle, and I'm currently a Computer Science student at the University of Oklahoma pursuing my accelerated Master's degree. For work I am currently employed at the K20 Center as a student programmer on their Game-Based Learning team. I've also recently accepted a position on the unergraduate research team for Dr. Song Fang at OU, where I will be participating in cybersecurity research.
 
-## 🚀 Project Structure
+As far as interests go, it's hard for me not to find something interesting in the world of technology. During my time in university, I've had the chance to touch everything from game engines, web applications, basic compilers, AI, and much more! Whether I'm working through the mathematical underpinnings or climbing the scaffolding of code holding together a program, I find joy in the ability to use my critical thinking skills to solve problems.
 
-Inside of your Astro project, you'll see the following folders and files:
+Outside of my work and studies, I enjoy tinkering on hobbiest wood-working and electronics projects. To cite an example, my family draws names each year so that each person is responsible to get one other person a Christmas gift. Each year I use my fun hobby to build and design fun adventures for my person to go on in order to receive their present. So if you ever need a conversation starter with me, I've got a few stories to tell!
 
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+## Contact Info
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+Whether you'd like to send me thoughts / ideas on one of the projects I'm working on or just generally want to connect, feel free to contact me via any of the provided information below:
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+- Primary Email: Skyler.D.Riggle-1@ou.edu
+- Secondary Email: skyler32702@gmail.com
+- Discord: skyler321
+- LinkedIn: <a href="www.linkedin.com/in/skyler-riggle-442702229">Profile Page</a>
