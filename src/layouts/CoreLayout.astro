@@ -8,7 +8,7 @@ const { title = undefined } = Astro.props;
 		<link rel="icon" type="image/svg+xml" href="/skylerriggle/favicon.svg" />
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
-		<title>Skyler Riggle{title ? "" : ` | ${title}`}</title>
+		<title>Skyler Riggle{title ? ` | ${title}` : ""}</title>
 	</head>
 	<body>
 		<slot />
